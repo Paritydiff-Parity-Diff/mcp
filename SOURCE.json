@@ -1,0 +1,50 @@
+{
+  "repository": "soumik15630m/yc",
+  "commit": "edcd17a9e62cf52a57fe9830b8db81640617c86b",
+  "files": [
+    {
+      "path": "tools/mcp/LICENSE",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+    },
+    {
+      "path": "tools/mcp/README.md",
+      "sha256": "777ebace02d0c82def52d132abf3bbd87f0c889c6e6d230d4ff6ccc525679c45"
+    },
+    {
+      "path": "tools/mcp/package.json",
+      "sha256": "193b48338e96fdfbfb6826827acf5fb9452e13ed83e21a10a3b8fe2dc0ef053d"
+    },
+    {
+      "path": "tools/mcp/package-lock.json",
+      "sha256": "d5498a728774c829f6b32f398c308d004906279de188de12668c8893d29c4398"
+    },
+    {
+      "path": "tools/mcp/server.mjs",
+      "sha256": "5662dd01bb10f52b4fc76b3257d0a6e2455814a24a744a87da3649a1cffc3ed7"
+    },
+    {
+      "path": "tools/mcp/server.test.mjs",
+      "sha256": "b15d798c17b8f592dc738803c4a8d2ad9eb46c20e1ee5ea775271130f0e95771"
+    },
+    {
+      "path": "tools/mcp/local-check.mjs",
+      "sha256": "39e432f73a6900cf3ad35eb3224db64f91d81e6e0360128b6557dd2cc4bd6b5c"
+    },
+    {
+      "path": "tools/mcp/local-syntax.mjs",
+      "sha256": "fd303f6582f4fbd98b3ec34ca06ac968971a525b55bbf7bcc96097db5377e341"
+    },
+    {
+      "path": "tools/mcp/server.json",
+      "sha256": "8eb1552859d2053d8d3f83bcaaeeeb0017b60fd1d880ff0d13b0c9bee3be407d"
+    },
+    {
+      "path": "tools/mcp/e2e.mjs",
+      "sha256": "4c4c1a1eca42ab33599e6b27da286bbc3fde028a04f40d2cb55b30e1c904e323"
+    },
+    {
+      "path": "tools/mcp/release.mjs",
+      "sha256": "125b2c523e4e2747caacb6703c42f8b5bbb5d2099465de7036a3504a5f023105"
+    }
+  ]
+}

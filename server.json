@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.soumik15630m/paritydiff",
+  "title": "ParityDiff",
+  "description": "Inspect API contract changes, review private evidence, and request validated migration drafts.",
+  "websiteUrl": "https://paritydiff.com/mcp",
+  "repository": {
+    "url": "https://github.com/Paritydiff-Parity-Diff/mcp",
+    "source": "github"
+  },
+  "version": "0.1.1",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@paritydiff/mcp",
+      "version": "0.1.1",
+      "transport": { "type": "stdio" }
+    }
+  ]
+}

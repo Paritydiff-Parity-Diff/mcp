@@ -1,0 +1,38 @@
+{
+  "name": "@paritydiff/mcp",
+  "version": "0.1.1",
+  "type": "module",
+  "mcpName": "io.github.soumik15630m/paritydiff",
+  "license": "Apache-2.0",
+  "homepage": "https://paritydiff.com/mcp",
+  "description": "Scoped contract evidence and checked migration drafts for IDE assistants",
+  "bin": {
+    "paritydiff-mcp": "./server.mjs"
+  },
+  "files": [
+    "server.mjs",
+    "local-check.mjs",
+    "local-syntax.mjs",
+    "server.json"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "dependencies": {
+    "typescript": "5.7.3"
+  },
+  "scripts": {
+    "test": "node --test server.test.mjs",
+    "test:e2e:live": "node e2e.mjs --live",
+    "release:pack": "node release.mjs pack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soumik15630m/yc.git",
+    "directory": "tools/mcp"
+  }
+}
