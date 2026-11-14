@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "paritydiff-api-evidence",
+  "description": "Review captured public API changes and their provenance with ParityDiff MCP.",
+  "version": "0.1.0",
+  "author": { "name": "ParityDiff" },
+  "homepage": "https://paritydiff.com/mcp",
+  "repository": "https://github.com/Paritydiff-Parity-Diff/mcp",
+  "license": "Apache-2.0",
+  "keywords": ["openapi", "compatibility", "mcp"]
+}
